@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Renato_caraOuCoroa</string>
+    <string name="escolha_opcao">Escolha uma Opção</string>
+    <string name="cara">Cara</string>
+    <string name="coroa">Coroa</string>
+    <string name="jorgar_novamente">Jorgar Novamente</string>
+</resources>
